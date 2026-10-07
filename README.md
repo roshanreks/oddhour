@@ -1,2 +1,5 @@
-# oddhour
-ODDHOUR — a fun one-night landing page, hosted.
+# ODDHOUR
+
+Fun landing page.
+
+Hosted: https://roshanreks.github.io/oddhour/
